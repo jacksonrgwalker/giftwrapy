@@ -14,6 +14,8 @@ DEFAULT_TREE_IGNORE_PATS = [
     "dist",
     ".DS_Store",
     "*.pyc",
+    ".ruff_cache",
+    "staticfiles",
 ]
 
 
